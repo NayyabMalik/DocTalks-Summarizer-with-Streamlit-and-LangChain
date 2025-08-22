@@ -1,4 +1,4 @@
-# Summarizer (PDF / YouTube / Audio)
+# Summarizer (PDF / YouTube / Audio/Video)
 
 A Streamlit-based web application that extracts text from PDFs, transcribes audio from YouTube videos or uploaded audio/video files, and generates concise summaries using a HuggingFace language model.
 
