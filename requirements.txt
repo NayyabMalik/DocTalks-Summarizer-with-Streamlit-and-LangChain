@@ -1,0 +1,7 @@
+streamlit
+pytube
+PyMuPDF
+speechrecognition
+langchain-huggingface
+yt-dlp
+pydub
