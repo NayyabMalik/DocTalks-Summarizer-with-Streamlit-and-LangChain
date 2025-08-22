@@ -11,7 +11,7 @@ A Streamlit-based web application that extracts text from PDFs, transcribes audi
 ## Installation
 
 ### Prerequisites
-- Python 3.8 or higher
+- Python 3.12
 - FFmpeg installed and added to system PATH (required for audio processing)
 - A HuggingFace API token for accessing the language model
 
@@ -27,7 +27,7 @@ A Streamlit-based web application that extracts text from PDFs, transcribes audi
 
 ## Project Structure
 ```
-your-repo-name/
+NayyabMalik/Summarizer-PDF-YouTube-Audio
 ├── summarizer.py       # Main Streamlit application script
 ├── downloads/          # Temporary directory for downloaded YouTube audio (auto-created)
 ├── README.md           # This file
